@@ -1,2 +1,2 @@
 # openai_api_bot_002
-Udemyの口座にて勉強用に
+Udemyの講座にて勉強用に作成（241103）
